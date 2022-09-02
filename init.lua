@@ -1,2 +1,2 @@
--- vim.cmd(":a")
+vim.cmd(":a")
 print("Plugin start")
