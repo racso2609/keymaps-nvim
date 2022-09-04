@@ -1,3 +1,3 @@
-local keymaps =  require('keymaps')
+local keymaps_nvim =  require('keymaps')
 
-return keymaps
+return keymaps_nvim
