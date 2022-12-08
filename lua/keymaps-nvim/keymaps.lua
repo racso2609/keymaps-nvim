@@ -31,5 +31,4 @@ M.setup = function(shortcuts)
 	end
 end
 
-print("Plugin start")
 return M

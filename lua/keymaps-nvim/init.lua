@@ -1,5 +1,3 @@
-local keymaps_nvim =  require('keymaps-nvim.keymaps')
-
-print("Me llamooo")
+local keymaps_nvim = require("keymaps-nvim.keymaps")
 
 return keymaps_nvim
